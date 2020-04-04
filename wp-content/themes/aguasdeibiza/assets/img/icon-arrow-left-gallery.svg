@@ -1,0 +1,24 @@
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" width="93.41" height="44.81" viewBox="0 0 93.41 44.81">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #202020;
+        stroke-linecap: square;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <title>icon-arrow-left-gallery</title>
+  <g id="Page-1">
+    <g id="DETALLE-GALERIA">
+      <g id="Group-4">
+        <path id="Line-5" class="cls-1" d="M92,23H2" transform="translate(0.41 -0.59)"/>
+        <g id="Group-2">
+          <path id="Line-5-Copy" class="cls-1" d="M22,44,1,23" transform="translate(0.41 -0.59)"/>
+          <path id="Line-5-Copy-2" data-name="Line-5-Copy" class="cls-1" d="M22,2,1,23" transform="translate(0.41 -0.59)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
